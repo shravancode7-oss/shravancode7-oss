@@ -2,7 +2,8 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=F9B73F&background=00000000&center=true&vCenter=true&width=900&height=50&lines=I+build+agentic+systems+that+survive+production.%3BLangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+Evals+%C2%B7+Copilot+Studio%3B1st+prize+%C2%B7+TietoEvry+TechUtsav+2025%3BOpen+to+AI+Engineer+%C2%B7+GenAI+%C2%B7+Agentic+AI+roles" alt="I build agentic systems that survive production."></p>
 
-<p align="center"><img alt="visitors" src="https://komarev.com/ghpvc/?username=shravancode7-oss&style=for-the-badge&color=f9b73f&labelColor=050a08&label=VISITORS">
+<p align="center"><a href="https://shravancode7-oss.github.io/"><img alt="▶ LIVE DOSSIER · 1 PAGE · VIDEO" src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DOSSIER%20%C2%B7%201%20PAGE%20%C2%B7%20VIDEO-f9b73f?style=for-the-badge&labelColor=050a08"></a>
+<img alt="visitors" src="https://komarev.com/ghpvc/?username=shravancode7-oss&style=for-the-badge&color=f9b73f&labelColor=050a08&label=VISITORS">
 <img alt="Open to work" src="https://img.shields.io/badge/STATUS%20%C2%B7%20OPEN%20TO%20WORK-f9b73f?style=for-the-badge&labelColor=050a08">
 <img alt="BENGALURU · IST" src="https://img.shields.io/badge/BENGALURU%20%C2%B7%20IST-0f1a13?style=for-the-badge&labelColor=050a08">
 <img alt="3 YRS GENAI IN PROD" src="https://img.shields.io/badge/3%20YRS%20GENAI%20IN%20PROD-0f1a13?style=for-the-badge&labelColor=050a08">
@@ -75,6 +76,7 @@ Open to AI Engineer, Generative AI and Agentic AI roles. If you are building wit
 
 <p>
 <a href="https://shravanjois.in"><img alt="shravanjois.in" src="https://img.shields.io/badge/shravanjois.in-f9b73f?style=for-the-badge&labelColor=f9b73f"></a>
+<a href="https://shravancode7-oss.github.io/"><img alt="Live dossier" src="https://img.shields.io/badge/Live%20dossier-f9b73f?style=for-the-badge&labelColor=f9b73f"></a>
 <a href="https://www.linkedin.com/in/shravanpjois/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-f9b73f?style=for-the-badge&labelColor=f9b73f"></a>
 <a href="mailto:shravanjois1999@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-f9b73f?style=for-the-badge&labelColor=f9b73f&logo=gmail&logoColor=050a08"></a>
 <a href="https://gitlab.com/SJcode67"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-f9b73f?style=for-the-badge&labelColor=f9b73f&logo=gitlab&logoColor=050a08"></a>
