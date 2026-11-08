@@ -1,5 +1,9 @@
 <a href="https://shravanjois.in"><img src="assets/hero.svg" alt="Shravan P Jois, AI Engineer. I build agentic systems that survive production." width="100%"></a>
 
+<p align="center"><a href="assets/brag.mp4"><img src="assets/brag.gif" alt="22-second intro video: Shravan P Jois, AI Engineer" width="100%"></a></p>
+
+<p align="center"><sub>22-second intro. <a href="assets/brag.mp4">Watch the MP4</a> · <a href="https://shravanjois.in">Case studies with measured results at shravanjois.in</a></sub></p>
+
 ## 01 · Who
 
 - Three years taking Generative AI and agentic systems from proof of concept to production.
