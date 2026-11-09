@@ -1,4 +1,4 @@
-<a href="https://shravanjois.in"><img src="assets/hero.svg" alt="Shravan P Jois, AI Engineer. I build agentic systems that survive production." width="100%"></a>
+<a href="https://shravanjois.in"><picture><source media="(max-width: 640px)" srcset="assets/hero-mobile.svg"><img src="assets/hero.svg" alt="Shravan P Jois, AI Engineer. I build agentic systems that survive production." width="100%"></picture></a>
 
 <p align="center"><img src="assets/typing.svg" alt="I build agentic systems that survive production. LangGraph, MCP, RAG, evals, Copilot Studio. 1st prize, TietoEvry TechUtsav 2025."></p>
 
